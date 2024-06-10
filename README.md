@@ -54,22 +54,6 @@ To view or modify this project, follow these steps:
     - Open `index.html` in your web browser to view the website.
     - You can use live server extensions for easier viewing.
 
-## Project Structure
-
-Here is an overview of the project's file structure:
-my-portfolio-project/
-├── index.html # Homepage
-├── about.html # About page
-├── contact.html # Contact page
-├── css/
-│ ├── styles.css # General styles for the website
-│ ├── about.css # Styles specific to the about page
-│ └── contact.css # Styles specific to the contact page
-├── images/
-│ └── profile.jpg # Example image for the profile section
-└── README.md # This README file
-
-
 ## How to Use
 
 1. **Navigate the Site**:
@@ -111,7 +95,7 @@ Contributions are welcome! To contribute to this project:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE] file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
